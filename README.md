@@ -17,6 +17,8 @@ A lightweight macOS cleanup utility to free disk space by removing caches, logs,
 
 Download the latest release.
 
+⬇️ **[Download Cleanly](https://github.com/dreampeace/Cleanly/releases/tag/v1.0)**
+
 ## Requirements
 
 macOS 14+
